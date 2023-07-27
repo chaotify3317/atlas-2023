@@ -1,0 +1,58 @@
+{
+	"id": 2849,
+	"name": "Paramore Band",
+	"description": "Paramore is an American rock band from Franklin, Tennessee, formed in 2004. \n\nThe three bars in the right represent their 2011 EP called Singles Club, which is a fan favorite.",
+	"links": {
+		"website": [
+			"https://www.paramore.net/"
+		],
+		"subreddit": [
+			"Paramore"
+		],
+		"discord": [
+			"paramore"
+		]
+	},
+	"path": {
+		"226-258": [
+			[
+				1229,
+				-798
+			],
+			[
+				1269,
+				-798
+			],
+			[
+				1269,
+				-793
+			],
+			[
+				1264,
+				-793
+			],
+			[
+				1264,
+				-790
+			],
+			[
+				1228,
+				-790
+			],
+			[
+				1228,
+				-798
+			],
+			[
+				1230,
+				-798
+			]
+		]
+	},
+	"center": {
+		"226-258": [
+			1248,
+			-794
+		]
+	}
+}
